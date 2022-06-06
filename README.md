@@ -1,3 +1,7 @@
 # DecolaTech-
 ### Criando aplicações móveis multiplataforma com React Native
-### https://raw.githubusercontent.com/lucasrmagalhaes/criandoAplicacoesMoveis-ReactNative/main/appNumeroAleatorio/android/app/src/assets/numeroAleatorio.jpg
+<p align="center">
+  <a href="#">
+    <img 
+         src="https://github.com/lucasrmagalhaes/criandoAplicacoesMoveis-ReactNative/blob/main/appCV/android/app/src/assets/appCV.jpg" 
+         alt="app CV" 
