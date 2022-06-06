@@ -1,5 +1,4 @@
-# DecolaTech-
-### Criando aplicações móveis multiplataforma com React Native
+
 <p align="center">
   <a href="#">
     <img 
